@@ -2,7 +2,7 @@
 
 This sample demonstrates message extensions for Microsoft Teams, showcasing multiple extension capabilities including:
 
-- **Search Commands** - Wikipedia article search, NuGet package search, and expert finder (by name and skill)
+- **Search Commands** - Wikipedia article search
 - **Action Commands** - Create custom Adaptive Cards and retrieve message details
 - **Link Unfurling** - Generates rich link previews when URLs are shared
 - **Result Grid** - Displays search results in a grid layout
@@ -28,7 +28,7 @@ This sample demonstrates message extensions for Microsoft Teams, showcasing mult
 |----------|-----------|-----------|
 | C# | .NET / ASP.NET Core | [dotnet/bot-message-extensions](dotnet/bot-message-extensions/README.md) |
 | TypeScript | Node.js | [nodejs/bot-message-extensions](nodejs/bot-message-extensions/README.md) |
-| Python | Python 3.12+ | [python/bot-message-extensions](python/bot-message-extensions/README.md) |
+| Python | Python | [python/bot-message-extensions](python/bot-message-extensions/README.md) |
 
 ## Prerequisites
 
