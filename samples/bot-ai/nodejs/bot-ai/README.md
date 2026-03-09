@@ -1,6 +1,6 @@
-# Bot AI - Node.js (TypeScript)
+# Bot AI Messages - Node.js (TypeScript)
 
-This sample demonstrates AI bot message formatting features for Microsoft Teams using Node.js and TypeScript.
+This sample demonstrates how to enhance AI-generated bot messages for Microsoft Teams using Node.js and TypeScript.
 
 ## Prerequisites
 
@@ -25,4 +25,4 @@ This sample demonstrates AI bot message formatting features for Microsoft Teams 
 
 The bot will start listening on `http://localhost:3978`.
 
-Refer to the main [README.md](../../README.md) to interact with your bot in the agentsplayground or in Teams.
+Refer to the main [README.md](../../README.md) to interact with your bot in Teams.
