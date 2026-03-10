@@ -5,8 +5,6 @@ This sample demonstrates message extensions for Microsoft Teams, showcasing mult
 - **Search Commands** - Wikipedia article search
 - **Action Commands** - Create custom Adaptive Cards and retrieve message details
 - **Link Unfurling** - Generates rich link previews when URLs are shared
-- **Result Grid** - Displays search results in a grid layout
-- **Adaptive Cards** - Rich interactive cards for displaying search results and expert profiles
 
 ## Table of Contents
 
@@ -265,20 +263,13 @@ python app.py
 Once the bot is running and added to Teams, you can interact with it through the compose message area:
 
 - **Wikipedia Search** - Search for Wikipedia articles directly from the compose box
-- **NuGet Search** - Find NuGet packages by name or keyword
-- **Expert Finder (by Name)** - Search for people in your organization using Microsoft Graph
-- **Expert Finder (by Skill)** - Find experts based on skills, topics, or departments from a local experts directory
-- **Create Card** - Use the action command to create custom Adaptive Cards with a title and description
-- **Get Message Details** - Right-click a message to retrieve its details via an action command
 - **Link Unfurling** - Share a URL in the compose area to get a rich link preview
-- **Result Grid** - View image results displayed in a grid layout
 
 ## Troubleshooting
 
 - If Teams cannot communicate with your bot, verify your DevTunnels URL is reachable
 - Ensure your `.env` file is configured correctly with valid `TENANT_ID`, `CLIENT_ID`, and `CLIENT_SECRET`
-- If the "Search by Name" expert finder returns errors, verify that `User.Read.All` application permission has been granted and admin consent is provided
-- If NuGet or Wikipedia search fails, check your network connectivity
+- If Wikipedia search fails, check your network connectivity
 - Use the Channels UI in Azure Bot Service in the Azure Portal to see detailed endpoint errors (not available in Teams Developer Portal)
 
 ## Further Reading
