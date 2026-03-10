@@ -144,8 +144,6 @@ For NodeJS and Python you will need a `.env` file with the following fields:
 TENANT_ID=<Your Directory (tenant) ID>
 CLIENT_ID=<Your Application (client) ID>
 CLIENT_SECRET=<Your client secret value>
-USER_ID=<User ID from application access policy>
-APP_BASE_URL=<Your tunnel URL>
 ```
 
 For .NET you need to add these values to `appsettings.json` or `launchSettings.json` using the next syntax:
