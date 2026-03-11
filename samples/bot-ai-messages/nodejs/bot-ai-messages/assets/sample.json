@@ -4,7 +4,7 @@
     "source": "officeDev",
     "title": "Bot AI Messages Sample",
     "shortDescription": "This sample demonstrates how to enhance AI-generated bot messages for Microsoft Teams using Node.js and TypeScript.",
-    "url": "https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/bot-ai/nodejs",
+    "url": "https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/bot-ai-messages/nodejs",
     "longDescription": [
       "This sample demonstrates how to enhance AI-generated bot messages for Microsoft Teams, built with the Teams SDK. It showcases AI labels, citations, feedback buttons, and sensitivity labels."
     ],
@@ -35,7 +35,7 @@
       {
         "type": "Image",
         "order": 100,
-      "url": "https://raw.githubusercontent.com/OfficeDev/Microsoft-Teams-Samples/main/samples/bot-ai/bot-ai-messages.gif",
+      "url": "https://raw.githubusercontent.com/OfficeDev/Microsoft-Teams-Samples/main/samples/bot-ai-messages/bot-ai-messages.gif",
         "alt": "Solution UX showing AI bot message formatting features for Microsoft Teams"
       }
     ],
