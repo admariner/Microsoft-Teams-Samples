@@ -52,9 +52,9 @@ The bot supports the following functionalities:
 
 | Language | Framework | Directory |
 |----------|-----------|-----------|
-| C# | .NET 10 / ASP.NET Core | [dotnet](dotnet) |
-| Typescript | Node.js | [nodejs](nodejs) |
-| Python | Python | [python](python) |
+| C# | .NET 10 / ASP.NET Core | [dotnet/bot-task-modules](dotnet/bot-task-modules/README.md) |
+| Typescript | Node.js | [nodejs/bot-task-modules](nodejs/bot-task-modules/README.md) |
+| Python | Python | [python/bot-task-modules](python/bot-task-modules/README.md) |
 
 ## How to run these samples
 
