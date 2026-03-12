@@ -27,9 +27,9 @@ The bot responds to the following commands:
 
 | Language | Framework | Directory |
 |----------|-----------|-----------|
-| C# | .NET 10 / ASP.NET Core | [dotnet/bot-conversation](dotnet/bot-conversation/README.md) |
-| TypeScript | Node.js | [nodejs/bot-conversation](nodejs/bot-conversation/README.md) |
-| Python | Python | [python/bot-conversation](python/bot-conversation/README.md) |
+| C# | .NET 10 / ASP.NET Core | [dotnet/bot-quickstart](dotnet/bot-quickstart/README.md) |
+| TypeScript | Node.js | [nodejs/bot-quickstart](nodejs/bot-quickstart/README.md) |
+| Python | Python | [python/bot-quickstart](python/bot-quickstart/README.md) |
 
 # How to run these samples
 

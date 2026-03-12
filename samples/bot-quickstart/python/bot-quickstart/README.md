@@ -1,4 +1,4 @@
-# Bot Conversation - Python
+# Bot Quickstart - Python
 
 This sample demonstrates a Bot Quickstart for Microsoft Teams using Python.
 
